@@ -1,14 +1,14 @@
-### Hey, hope you're having a good day :)
+## Hey, hope you're having a good day :)
 
-## Working on
+### Working on
 Not really anything at this point in time. Sort of just having fun
 and doing whatever I want.
 
-## Learning
+### Learning
 Rust. Loving this language so far, don't know what I might make but
 I know for a fact I'm gonna use it as much as I can.
 
-## Extra
+### Extra
 Just ask, my discord is `michael.#8869`
 
 [![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softmorning&layout=compact&exclude_repo=dotfiles,softmorning.github.io&theme=gruvbox)](https://github.com/softmorning/github-readme-stats)
