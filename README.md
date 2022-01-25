@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hey, hope you're having a good day :)
+
+## Working on
+Not really anything at this point in time. Sort of just having fun
+and doing whatever I want.
+
+## Learning
+Rust. Loving this language so far, don't know what I might make but
+I know for a fact I'm gonna use it as much as I can.
+
+## Extra
+Just ask, my discord is `michael.#8869`
+
+[![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **softmorning/softmorning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
